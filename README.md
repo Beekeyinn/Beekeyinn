@@ -10,6 +10,6 @@
 
 [1]: https://github.com/Beekeyinn
 [2]: https://www.facebook.com/hatred.boy.beekeyinn
-[3]: www.linkedin.com/in/beking-shrestha-89ba33206
+[3]: https://www.linkedin.com/in/beking-shrestha-89ba33206
 
 
